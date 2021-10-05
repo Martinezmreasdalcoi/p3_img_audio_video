@@ -1,0 +1,25 @@
+
+
+
+     *{ 
+         margin: 0;
+         padding 0;
+         /* box-sizing: border-box */
+          
+          }
+     
+        header {
+          background-color: blueviolet;
+          padding: ;
+          margin: 20px;
+           }
+           
+       nav {
+               background-color: burlywood;
+               padding: 40px;
+           }
+       main {
+              background-color: aqua; 
+   }
+
+      
